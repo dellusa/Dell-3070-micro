@@ -1,5 +1,5 @@
 # Dell-3070-micro
-Hackintosh  3070 Dell micro with OpenCore
+Hackintosh  3070 Dell micro with OpenCore 0.62
 Dell 3070 micro i5 9500T , Ram 16gb , Nvme hynix 256Gb
 Opencore 0.59 :
 - Patch DSDT 
