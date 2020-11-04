@@ -1,6 +1,5 @@
 # Dell-3070-micro
-Hackintosh  3070 Dell micro with OpenCore 0.62
-Dell 3070 micro 
+Hackintosh Dell 3070 micro with OpenCore 0.62
 - i5 9500T 
 - Ram 16gb 
 - Nvme hynix 256Gb
